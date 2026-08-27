@@ -1,5 +1,7 @@
 # pharma-qms-report-automation
+
 ## Overview
+
 Uses Excel Power Query to transform CAPA, Deviation, OOS, and Event reports exported from MasterControl into standardized datasets for daily reporting, KPI monitoring, and trend analysis.
 
 ## Problem
@@ -10,11 +12,27 @@ Daily Pharmaceutical QMS reports required repetitive manual processing before th
 
 Developed Power Query workflow in Excel to:
 
-- Import .csv or .txt format reports exported from MasterControl
+- Import .csv or .txt reports exported from MasterControl
 - Standardize data formats
 - Clean and transform report data
 - Create a consistent dataset for reporting
 - Reduce manual data preparation
+
+## Workflow
+
+Source:
+- MasterControl Reports
+
+Process:
+- Export reports in CSV/TXT format
+- Import data into Power Query
+- Clean and transform data
+- Standardize datasets
+  
+Output:
+- Consistent reporting datasets
+- Reduced manual data preparation
+- Improved data quality and reporting consistency
 
 ## Report Types
 
@@ -27,7 +45,7 @@ Developed Power Query workflow in Excel to:
 
 - MasterControl (eQMS)
 - Microsoft Excel
-- PowerQuery
+- Power Query
 
   ## Outcome
 
