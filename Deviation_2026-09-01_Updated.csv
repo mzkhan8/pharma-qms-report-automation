@@ -1,0 +1,61 @@
+Deviation Number,Status,T2 Location or Site,Title,Create Date,Overall Due,Initiator,Step Name,Step Due,Extensions,Type,Department,Closure Date,Tracking Code,System Flag,Review Bucket
+DEV26062201,Deviation Forms Open,USA,Documentation Review Required,6/22/2022,7/22/2022,user31,Risk Evaluation,8/5/2022,4,Unplanned,Infrastructure,,TRK-4079,XF-74,A
+DEV26070501,Deviation Forms Open,USA,Inventory Traceability Assessment,7/5/2022,8/4/2022,user58,Technical Assessment,1/13/2023,8,Unplanned,Laboratory Services,,TRK-2920,XF-53,D
+DEV26092501,Deviation Forms Open,,Process Control Verification,9/25/2024,10/25/2024,user82,Risk Evaluation,9/26/2024,0,,,,TRK-6311,XF-33,C
+DEV26011701,Deviation Forms Open,USA,Material Handling Review,1/17/2025,2/16/2025,user83,Risk Evaluation,6/22/2026,2,Unplanned,Inventory Control,,TRK-6519,XF-34,B
+DEV26030201,Deviation Forms Open,USA,Quality Record Reconciliation,3/2/2025,4/1/2025,user62,Impact Assessment,3/1/2026,0,Unplanned,Infrastructure,,TRK-8587,XF-88,C
+DEV26071601,Deviation Forms Open,USA,Process Control Verification,7/16/2025,8/15/2025,user51,Impact Assessment,2/20/2026,1,Unplanned,Production,,TRK-2623,XF-59,C
+DEV26082801,Deviation Forms Open,USA,Material Handling Review,8/28/2025,9/27/2025,user15,Risk Evaluation,6/19/2026,1,Unplanned,Production,,TRK-9834,XF-87,B
+DEV26101401,Deviation Forms Open,USA,Documentation Review Required,10/14/2025,11/13/2025,user84,Impact Assessment,11/9/2025,0,Unplanned,,,TRK-1463,XF-11,A
+DEV26102301,Deviation Forms Open,USA,Process Control Verification,10/23/2025,11/22/2025,user07,Risk Evaluation,6/10/2026,1,Unplanned,Laboratory Services,,TRK-8186,XF-78,C
+DEV26103001,Deviation Forms Open,USA,Equipment Status Evaluation,10/30/2025,11/29/2025,user63,Disposition Review,10/30/2026,4,Unplanned,Infrastructure,,TRK-3311,XF-93,C
+DEV26021601,Deviation Forms Open,USA,Documentation Review Required,2/16/2026,3/18/2026,user02,Disposition Review,6/19/2026,2,Unplanned,Production,,TRK-9613,XF-17,B
+DEV26040601,Deviation Forms Open,USA,Equipment Status Evaluation,4/6/2026,5/6/2026,user41,Risk Evaluation,8/21/2026,3,Unplanned,Production,,TRK-8436,XF-96,A
+DEV26042301,Deviation Forms Open,China,质量体系改进行动,4/23/2026,5/23/2026,user18,Risk Evaluation,8/28/2026,3,Unplanned,Inventory Control,,TRK-4195,XF-47,C
+DEV26050401,Deviation Forms Open,USA,Quality Record Reconciliation,5/4/2026,6/3/2026,user87,Investigation Review,8/28/2026,3,Unplanned,Infrastructure,,TRK-1184,XF-47,A
+DEV26050801,Deviation Forms Open,China,设备状态检查项目,5/8/2026,6/7/2026,user17,Investigation Review,9/14/2026,2,Unplanned,Laboratory Services,,TRK-8331,XF-82,D
+DEV26051001,Deviation Forms Open,China,工艺流程优化评估,5/10/2026,6/9/2026,user46,Technical Assessment,7/9/2026,1,Unplanned,Production,,TRK-1284,XF-67,C
+DEV26052101,Deviation Forms Open,USA,Process Control Verification,5/21/2026,6/20/2026,user84,Quality Approval,8/27/2026,0,Unplanned,Quality Systems,,TRK-4465,XF-82,D
+DEV26061201,Deviation Forms Open,China,生产记录审核异常,6/12/2026,7/12/2026,user73,Technical Assessment,9/29/2026,2,Unplanned,Quality Systems,,TRK-5560,XF-39,A
+DEV26061501,Deviation Forms Open,USA,Quality Record Reconciliation,6/15/2026,7/15/2026,user08,Risk Evaluation,7/6/2026,0,Unplanned,Engineering,,TRK-3501,XF-30,C
+DEV26061502,Deviation Forms Open,USA,Equipment Status Evaluation,6/15/2026,7/15/2026,user77,Disposition Review,7/5/2026,0,Unplanned,Engineering,,TRK-5856,XF-69,B
+DEV26062101,Deviation Forms Open,USA,Process Control Verification,6/21/2026,7/21/2026,user58,Disposition Review,7/16/2026,0,Unplanned,Production,,TRK-1798,XF-63,B
+DEV26062102,Deviation Forms Open,USA,Inventory Traceability Assessment,6/21/2026,7/21/2026,user41,Impact Assessment,8/28/2026,0,Unplanned,Laboratory Services,,TRK-9578,XF-96,B
+DEV26070601,Deviation Forms Open,China,工艺流程优化评估,7/6/2026,8/5/2026,user75,Disposition Review,9/29/2026,1,Unplanned,Inventory Control,,TRK-9902,XF-84,A
+DEV26070801,Deviation Forms Open,USA,Process Control Verification,7/8/2026,8/7/2026,user50,Impact Assessment,8/12/2026,0,Unplanned,Infrastructure,,TRK-8170,XF-94,D
+DEV26071501,Deviation Forms Open,China,设备状态检查项目,7/15/2026,8/14/2026,user02,Quality Approval,9/29/2026,1,Unplanned,Inventory Control,,TRK-4761,XF-66,C
+DEV26071602,Deviation Forms Open,China,物料追溯核查,7/16/2026,8/15/2026,user52,Disposition Review,9/29/2026,2,Unplanned,Infrastructure,,TRK-1028,XF-26,A
+DEV26071701,Deviation Forms Open,USA,Inventory Traceability Assessment,7/17/2026,8/16/2026,user92,Quality Approval,8/12/2026,0,Unplanned,Engineering,,TRK-4799,XF-59,A
+DEV26072001,Deviation Forms Open,USA,Process Control Verification,7/20/2026,8/19/2026,user45,Quality Approval,8/15/2026,0,Unplanned,Laboratory Services,,TRK-2083,XF-76,A
+DEV26072002,Deviation Forms Open,USA,Inventory Traceability Assessment,7/20/2026,8/19/2026,user06,Investigation Review,8/10/2026,0,Unplanned,Engineering,,TRK-7874,XF-79,A
+DEV26072003,Deviation Forms Open,USA,Process Control Verification,7/20/2026,8/19/2026,user99,Disposition Review,8/10/2026,0,Unplanned,Laboratory Services,,TRK-9103,XF-49,A
+DEV26072101,Deviation Forms Open,USA,Material Handling Review,7/21/2026,8/20/2026,user27,Technical Assessment,8/1/2026,0,Unplanned,Engineering,,TRK-6609,XF-69,D
+DEV26072201,Deviation Forms Open,USA,Material Handling Review,7/22/2026,8/21/2026,user24,Investigation Review,8/13/2026,0,Unplanned,Engineering,,TRK-3932,XF-94,B
+DEV26072401,Deviation Forms Open,China,物料追溯核查,7/24/2026,8/23/2026,user87,Disposition Review,8/13/2026,3,Unplanned,Laboratory Services,,TRK-3241,XF-39,A
+DEV26072402,Deviation Forms Open,USA,Material Handling Review,7/24/2026,8/23/2026,user52,Investigation Review,8/16/2026,0,Unplanned,Quality Systems,,TRK-2035,XF-71,B
+DEV26072801,Deviation Forms Open,USA,Quality Record Reconciliation,7/28/2026,8/27/2026,user03,Investigation Review,8/17/2026,0,Unplanned,Engineering,,TRK-6958,XF-16,C
+DEV26072901,Deviation Forms Open,USA,Process Control Verification,7/29/2026,8/28/2026,user96,Investigation Review,8/19/2026,0,Unplanned,Engineering,,TRK-9058,XF-87,A
+DEV26072902,Deviation Forms Open,USA,Documentation Review Required,7/29/2026,8/28/2026,user50,Risk Evaluation,8/15/2026,0,Unplanned,Inventory Control,,TRK-3680,XF-61,A
+DEV26072903,Deviation Forms Open,USA,Quality Record Reconciliation,7/29/2026,8/28/2026,user59,Investigation Review,8/19/2026,0,Unplanned,Engineering,,TRK-4944,XF-32,A
+DEV26073001,Deviation Forms Open,China,设备状态检查项目,7/30/2026,8/29/2026,user63,Impact Assessment,8/19/2026,0,Unplanned,Laboratory Services,,TRK-8348,XF-91,C
+DEV26073101,Deviation Forms Open,USA,Inventory Traceability Assessment,7/31/2026,8/30/2026,user12,Technical Assessment,8/20/2026,0,Unplanned,Infrastructure,,TRK-1292,XF-81,B
+DEV26080601,Deviation Forms Open,USA,Equipment Status Evaluation,8/6/2026,9/5/2026,user91,Technical Assessment,8/27/2026,0,Unplanned,Inventory Control,,TRK-5827,XF-48,D
+DEV26080701,Deviation Forms Open,China,偏差调查跟进,8/7/2026,9/6/2026,user49,Risk Evaluation,8/8/2026,0,Unplanned,Inventory Control,,TRK-5005,XF-90,D
+DEV26080901,Deviation Forms Open,China,工艺流程优化评估,8/9/2026,9/8/2026,user59,Investigation Review,8/31/2026,0,Unplanned,Production,,TRK-4648,XF-19,D
+DEV26081001,Deviation Forms Open,China,生产记录审核异常,8/10/2026,9/9/2026,user71,Risk Evaluation,8/31/2026,0,Unplanned,Inventory Control,,TRK-1615,XF-43,A
+DEV26081002,Deviation Forms Open,China,质量体系改进行动,8/10/2026,9/9/2026,user55,Disposition Review,8/30/2026,0,Unplanned,Production,,TRK-3325,XF-71,D
+DEV26081101,Deviation Forms Open,China,生产记录审核异常,8/11/2026,9/10/2026,user61,Investigation Review,8/31/2026,0,Unplanned,Quality Systems,,TRK-3017,XF-39,A
+DEV26081102,Deviation Forms Open,China,工艺流程优化评估,8/11/2026,9/10/2026,user46,Quality Approval,9/1/2026,0,Unplanned,Infrastructure,,TRK-7847,XF-80,D
+DEV26081103,Deviation Forms Open,China,工艺流程优化评估,8/11/2026,9/10/2026,user44,Investigation Review,9/1/2026,0,Unplanned,Laboratory Services,,TRK-8121,XF-27,C
+DEV26081201,Deviation Forms Open,USA,Documentation Review Required,8/12/2026,9/11/2026,user20,Impact Assessment,9/1/2026,0,Unplanned,Laboratory Services,,TRK-3530,XF-77,C
+DEV26081202,Deviation Forms Open,USA,Process Control Verification,8/12/2026,9/11/2026,user93,Technical Assessment,8/13/2026,0,,Infrastructure,,TRK-2205,XF-75,C
+DEV26081203,Deviation Forms Open,USA,Documentation Review Required,8/12/2026,9/11/2026,user19,Risk Evaluation,9/1/2026,0,Unplanned,Engineering,,TRK-9386,XF-99,A
+DEV26081301,Deviation Forms Open,China,生产记录审核异常,8/13/2026,9/12/2026,user94,Quality Approval,9/2/2026,0,Unplanned,Quality Systems,,TRK-2860,XF-95,C
+DEV26081302,Deviation Forms Open,China,物料追溯核查,8/13/2026,9/12/2026,user59,Disposition Review,9/5/2026,0,Unplanned,Laboratory Services,,TRK-9164,XF-36,A
+DEV26081303,Deviation Forms Open,USA,Quality Record Reconciliation,8/13/2026,9/12/2026,user72,Impact Assessment,8/28/2026,0,Unplanned,Production,,TRK-1810,XF-79,B
+DEV26081401,Deviation Forms Open,USA,Material Handling Review,8/14/2026,9/13/2026,user28,Technical Assessment,9/3/2026,0,Unplanned,Production,,TRK-5692,XF-88,D
+DEV26081801,Deviation Forms Open,China,工艺流程优化评估,8/18/2026,9/17/2026,user04,Impact Assessment,9/7/2026,0,Unplanned,,,TRK-8893,XF-11,C
+DEV26081802,Deviation Forms Open,USA,Quality Record Reconciliation,8/18/2026,9/17/2026,user46,Investigation Review,9/10/2026,0,Unplanned,Engineering,,TRK-7710,XF-11,A
+DEV26082401,Deviation Forms Open,USA,Equipment Status Evaluation,8/24/2026,9/23/2026,user71,Investigation Review,9/13/2026,0,Unplanned,Production,,TRK-3882,XF-81,D
+DEV26082501,Deviation Forms Open,China,物料追溯核查,8/25/2026,9/24/2026,user18,Risk Evaluation,9/14/2026,0,Unplanned,Quality Systems,,TRK-5617,XF-22,B
+DEV26082701,Deviation Forms Open,China,质量体系改进行动,8/27/2026,9/26/2026,user67,Risk Evaluation,9/16/2026,0,Unplanned,Inventory Control,,TRK-2947,XF-89,C

@@ -1,0 +1,10 @@
+Event Number,InfoCard Vault,Title,InfoCard Creator,InfoCard Create Date,InfoCard Step Name,InfoCard Step Due Date,Deviation FBS Reference,T2 Department,Step Duration (In Day)
+EVENT260820,Event Report Forms Open,EVENT260820: Process Workflow Assessment,user01,8/20/2026 12:06:50 PM,Management Review,8/24/2026 12:06:51 PM,,QC,-3
+EVENT260819,Event Report Forms Open,EVENT260819: Inventory Record Discrepancy,user48,8/19/2026 4:41:26 PM,Action Assignment,8/22/2026 5:34:01 PM,,QA,-1
+EVENT260819,Event Report Forms Open,EVENT260819: Label Control Review,user20,8/19/2026 9:03:11 AM,Initial Assessment,8/23/2026 9:03:12 AM,,Warehouse,-2
+EVENT260818,Event Report Forms Open,EVENT260818: Documentation Review Required,user25,8/18/2026 9:31:08 AM,Action Assignment,8/22/2026 9:31:09 AM,,QC,-1
+EVENT260818,Event Report Forms Open,EVENT260818: Label Control Review,user16,8/18/2026 7:56:36 AM,Risk Evaluation,8/22/2026 7:56:36 AM,,Micro,-1
+EVENT260817,Event Report Forms Open,EVENT260817: Documentation Review Required,user95,8/17/2026 3:31:06 PM,Management Review,8/23/2026 2:29:50 PM,,Engineering,-2
+EVENT260814,Event Report Forms Open,EVENT260814: Equipment Status Verification,user07,8/14/2026 4:03:07 PM,Action Assignment,8/22/2026 2:50:31 PM,,Warehouse,-1
+EVENT260814,Event Report Forms Open,EVENT260814: Process Workflow Assessment,user18,8/14/2026 3:59:14 PM,Management Review,8/22/2026 2:49:01 PM,,QC,-1
+EVENT260805,Event Report Forms Open,EVENT260805: Label Control Review,user73,8/5/2026 2:32:56 PM,Event Disposition,8/9/2026 2:32:56 PM,,Engineering,12

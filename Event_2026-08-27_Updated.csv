@@ -1,0 +1,14 @@
+Event Number,InfoCard Vault,Title,InfoCard Creator,InfoCard Create Date,InfoCard Step Name,InfoCard Step Due Date,Deviation FBS Reference,T2 Department,Step Duration (In Day)
+EVENT260826,Event Report Forms Open,EVENT260826: Batch Reconciliation Review,user17,8/26/2026 10:57:07 AM,Management Review,8/29/2026 11:14:30 AM,,Compliance,-2
+EVENT260826,Event Report Forms Open,EVENT260826: Training Record Mismatch,user37,8/26/2026 8:15:41 AM,Action Assignment,8/29/2026 8:31:25 AM,,Facilities,-2
+EVENT260825,Event Report Forms Open,EVENT260825: Label Control Review,user58,8/25/2026 12:50:52 PM,Event Report and Containment,8/29/2026 12:50:52 PM,,QA,-2
+EVENT260824,Event Report Forms Open,EVENT260824: Material Traceability Check,user64,8/24/2026 2:23:48 PM,Event Disposition,8/27/2026 2:45:04 PM,,Micro,0
+EVENT260824,Event Report Forms Open,EVENT260824: Material Traceability Check,user90,8/24/2026 11:00:05 AM,Event Disposition,8/27/2026 11:15:52 AM,,Warehouse,0
+EVENT260822,Event Report Forms Open,EVENT260822: Process Workflow Assessment,user56,8/22/2026 7:57:55 PM,Management Review,8/28/2026 10:15:46 PM,,Warehouse,-1
+EVENT260820,Event Report Forms Open,EVENT260820: Label Control Review,user06,8/20/2026 12:06:50 PM,Initial Assessment,8/24/2026 12:06:51 PM,,Warehouse,3
+EVENT260819,Event Report Forms Open,EVENT260819: Material Traceability Check,user66,8/19/2026 9:03:11 AM,Event Report and Containment,8/27/2026 11:14:51 AM,,Manufacturing,0
+EVENT260818,Event Report Forms Open,EVENT260818: Process Workflow Assessment,user88,8/18/2026 9:31:08 AM,Event Disposition,8/22/2026 9:31:09 AM,,Compliance,5
+EVENT260818,Event Report Forms Open,EVENT260818: Process Workflow Assessment,user97,8/18/2026 7:56:36 AM,Management Review,8/27/2026 11:39:09 AM,,QA,0
+EVENT260814,Event Report Forms Open,EVENT260814: Inventory Record Discrepancy,user89,8/14/2026 4:03:07 PM,Management Review,8/22/2026 2:50:31 PM,,Manufacturing,5
+EVENT260814,Event Report Forms Open,EVENT260814: Material Traceability Check,user51,8/14/2026 3:59:14 PM,Action Assignment,8/22/2026 2:49:01 PM,,Compliance,5
+EVENT260805,Event Report Forms Open,EVENT260805: Material Traceability Check,user58,8/5/2026 2:32:56 PM,Action Assignment,8/9/2026 2:32:56 PM,,Facilities,18

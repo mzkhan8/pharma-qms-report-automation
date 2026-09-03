@@ -1,0 +1,15 @@
+InfoCard Number,Investigation Title,Event,Laboratory,InfoCard Creator,InfoCard Create Date,InfoCard Step Due Date,Product,Lot Number,InfoCard Step Name,Review Token,System Marker
+OOS26081301,Sample Integrity Assessment,Out of Specification,Drug Product Stability,user04,8/13/2025 10:50:27 AM,8/14/2026 12:00:00 AM,Product Nova,M95170,Closure Approval,RT-7806,SM-89
+OOS26012001,Laboratory Result Review,Out of Trend,Micro,user88,1/20/2026 4:50:08 PM,7/15/2026 12:00:00 AM,,,Technical Review,RT-1619,SM-64
+OOS26030501,Sample Integrity Assessment,Out of Specification,Drug Product Stability,user06,3/5/2026 6:03:45 PM,7/26/2026 3:37:54 PM,Product Nova,G42750,Final Evaluation,RT-9263,SM-61
+OOS26030502,Sample Integrity Assessment,Out of Specification,Drug Product Stability,user50,3/5/2026 6:44:14 PM,7/26/2026 4:10:57 PM,Product Titan,A29463,Data Verification,RT-4793,SM-13
+OOS26040901,Impurity Investigation,Out of Specification,Drug Substance Stability,user39,4/9/2026 12:13:37 PM,8/28/2026 12:00:00 AM,Product Titan,I89618,Quality Assessment,RT-2221,SM-22
+OOS26041501,Stability Trend Assessment,Out of Specification,Drug Product Stability,user76,4/15/2026 1:51:22 PM,8/31/2026 12:00:00 AM,Product Alpha,M77449,Closure Approval,RT-5538,SM-30
+OOS26042701,Specification Evaluation,Out of Trend,Drug Substance Stability,user91,4/27/2026 3:48:42 PM,8/28/2026 12:00:00 AM,Product Titan,F09724,Final Evaluation,RT-3718,SM-41
+OOS26051401,Specification Evaluation,Out of Specification,Drug Product Stability,user69,5/14/2026 11:57:20 AM,8/2/2026 3:11:16 PM,,,Quality Assessment,RT-5083,SM-64
+OOS26060101,Impurity Investigation,Out of Specification,Drug Substance Stability,user55,6/1/2026 5:18:53 PM,8/31/2026 12:00:00 AM,Product Orion,M44941,Technical Review,RT-1310,SM-75
+OOS26062401,Specification Evaluation,Out of Specification,Drug Product Stability,user17,6/24/2026 3:22:39 PM,9/30/2026 12:00:00 AM,Product Zenith,A23588,Final Evaluation,RT-1759,SM-19
+OOS26070201,Sample Integrity Assessment,Out of Specification,Micro,user70,7/2/2026 2:23:52 PM,8/21/2026 11:28:25 AM,,,Closure Approval,RT-1409,SM-79
+OOS26070801,Specification Evaluation,Out of Specification,Drug Substance Stability,user62,7/8/2026 4:55:22 PM,9/4/2026 12:00:00 AM,Product Falcon,R60010,Final Evaluation,RT-7685,SM-54
+OOS26080501,Specification Evaluation,Out of Specification,Drug Substance Stability,user22,8/5/2026 3:15:17 PM,9/1/2026 3:15:17 PM,Product Zenith,A83632,Data Verification,RT-5905,SM-45
+OOS26081302,Specification Evaluation,Out of Specification,Finished Drug Product,user32,8/13/2026 12:41:26 PM,9/9/2026 12:41:26 PM,Product Falcon,M30905,Closure Approval,RT-8129,SM-44
